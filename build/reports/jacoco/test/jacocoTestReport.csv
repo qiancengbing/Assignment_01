@@ -1,0 +1,10 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+Converter,Converter,Calculator,0,7,0,0,0,2,0,2,0,2
+Converter,Converter,EXChangeUI.result_BtnActionAdapter,27,136,8,8,9,28,8,2,0,2
+Converter,Converter,EXChangeUI,0,312,0,0,0,60,0,1,0,1
+Converter,Converter,Exchange_rate.rate_BtnActionAdapter,8,6,0,0,3,1,1,1,1,1
+Converter,Converter,FileOperator,31,198,5,21,13,55,5,11,0,3
+Converter,Converter,Exchange_rate.BtnActionAdapter,15,116,2,2,4,15,2,2,0,2
+Converter,Converter,EXChangeUI.rate_BtnActionAdapter,8,6,0,0,3,1,1,1,1,1
+Converter,Converter,App,8,0,0,0,3,0,2,0,2,0
+Converter,Converter,Exchange_rate,0,211,0,0,0,45,0,1,0,1

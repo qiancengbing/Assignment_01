@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Converter.AppTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-09-19T13:51:19" hostname="kangyuhuadembp" time="2.746">
+  <properties/>
+  <testcase name="test_getRate()" classname="Converter.AppTest" time="0.02"/>
+  <testcase name="test_EXChangeUI()" classname="Converter.AppTest" time="2.503"/>
+  <testcase name="test_getResult()" classname="Converter.AppTest" time="0.001"/>
+  <testcase name="test_saveRate()" classname="Converter.AppTest" time="0.015"/>
+  <testcase name="test_Exchange_rate()" classname="Converter.AppTest" time="0.205"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
